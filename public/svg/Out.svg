@@ -1,0 +1,16 @@
+<svg width="94" height="58" viewBox="0 0 94 58" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="path-1-inside-1_1_459" fill="white">
+<path d="M11 0H63V58H11V0Z"/>
+</mask>
+<path d="M11 0H63V58H11V0Z" fill="#D9D9D9"/>
+<path d="M11 0V-4H7V0H11ZM11 58H7V62H11V58ZM11 4H63V-4H11V4ZM63 54H11V62H63V54ZM15 58V0H7V58H15Z" fill="#7C3023" fill-opacity="0.9" mask="url(#path-1-inside-1_1_459)"/>
+<rect x="29" y="23.5062" width="62.0051" height="10" rx="5" fill="#7C3023"/>
+<rect width="29.7865" height="8" rx="4" transform="matrix(0.642788 0.766044 -0.816938 0.576726 74.3 5)" fill="#7C3023"/>
+<rect width="29.7865" height="8" rx="4" transform="matrix(0.642788 -0.766044 0.816938 0.576726 68 45.8178)" fill="#7C3023"/>
+<rect width="7" height="58" fill="#7C3023"/>
+<rect x="0.5" y="0.5" width="6" height="57" stroke="#7C3023" stroke-opacity="0.9"/>
+<path d="M58 3H63V12.5C63 13.8807 61.8807 15 60.5 15V15C59.1193 15 58 13.8807 58 12.5V3Z" fill="#7C3023"/>
+<path d="M58.5 3.5H62.5V12.5C62.5 13.6046 61.6046 14.5 60.5 14.5C59.3954 14.5 58.5 13.6046 58.5 12.5V3.5Z" stroke="#7C3023" stroke-opacity="0.9"/>
+<path d="M58 40.5C58 39.1193 59.1193 38 60.5 38V38C61.8807 38 63 39.1193 63 40.5V55H58V40.5Z" fill="#7C3023"/>
+<path d="M62.5 40.5V54.5H58.5V40.5C58.5 39.3954 59.3954 38.5 60.5 38.5C61.6046 38.5 62.5 39.3954 62.5 40.5Z" stroke="#7C3023" stroke-opacity="0.9"/>
+</svg>
